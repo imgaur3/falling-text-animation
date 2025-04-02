@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/falling-text-animation/static/css/main.b1a9c65f.css",
+    "main.js": "/falling-text-animation/static/js/main.f07083cf.js",
+    "static/js/453.86db59a3.chunk.js": "/falling-text-animation/static/js/453.86db59a3.chunk.js",
+    "index.html": "/falling-text-animation/index.html",
+    "main.b1a9c65f.css.map": "/falling-text-animation/static/css/main.b1a9c65f.css.map",
+    "main.f07083cf.js.map": "/falling-text-animation/static/js/main.f07083cf.js.map",
+    "453.86db59a3.chunk.js.map": "/falling-text-animation/static/js/453.86db59a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a9c65f.css",
+    "static/js/main.f07083cf.js"
+  ]
+}
